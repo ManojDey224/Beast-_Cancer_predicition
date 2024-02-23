@@ -25,7 +25,7 @@ reports: Documents and results generated during the project.
 
 Getting Started:
 
-Clone this repository: Use git clone https://github.com/ManojDey224/sentiments-analyze.git to clone the project.
+Clone this repository: Use git clone github.com/ManojDey224/Beast-_Cancer_predicition.git to clone the project.
 Install dependencies: Refer to the requirements.txt file (if present) to install required libraries using pip install -r requirements.txt.
 Run the Jupyter notebooks: Open the notebooks in a Jupyter Notebook environment and execute the cells to reproduce the analysis and model training.
 Explore the results: Refer to the reports folder for detailed documentation, evaluation metrics, and insights.
